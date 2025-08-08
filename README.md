@@ -5,10 +5,7 @@ Mail ayudantes:
 - bruno.parra@uc.cl
 - juan.kuster@uc.cl
 
-Se agradece especialmente a Alberto Almuna (Mail: alberto.almuna@uc.cl)por auspiciar este repositorio.
-
-
-Si quieres dar algún comentario u opinión sobre la ayudantía: [Formulario de Feedback](https://forms.gle/7B53rLqTXwvjFFhW8)
+Se agradece especialmente a Alberto Almuna (Mail: alberto.almuna@uc.cl) por auspiciar este repositorio.
 
 ## Correr código de C/C++ en Windows
 
