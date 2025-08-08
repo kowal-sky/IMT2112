@@ -3,7 +3,7 @@ Repositorio para las ayudantías de Algoritmos Paralelos en Computación Cientí
 
 Mail ayudantes:
 - bruno.parra@uc.cl
-- Juan Kuster
+- juan.kuster@uc.cl
 
 Se agradece especialmente a Alberto Almuna (Mail: alberto.almuna@uc.cl)por auspiciar este repositorio.
 
